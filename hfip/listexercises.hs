@@ -41,7 +41,13 @@ isAscNew [x]      = True
 isAscNew (x:y:xs) = (x < y) && isAscNew (y:xs)
 
 
+
+
 -- 4. Create a function hasPath that determines if a path from one node to another
 -- exists within a directed graph
+tupleList :: [(Int, Int)]
+tupleList = [(1,2), (2,3), (3,2), (4,3), (4,5)]
+
 hasPath :: [(Int, Int)] -> Int -> Int -> Bool
-hasPath _ _ _ = False
+hasPath [] _ _           = False
+hasPath xs start end     = False
