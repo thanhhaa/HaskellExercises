@@ -1,5 +1,10 @@
 ### Exercises
 
+#### Funtional Programming in Haskell - Graham Hutton (fpih)
+- /basic: https://www.youtube.com/watch?v=a0fPHkzK36I&list=PLF1Z-APd9zK7usPMx3LGMZEHrECUGodd3
+
+- /advanced: https://www.youtube.com/playlist?list=PLF1Z-APd9zK5uFc8FKr_di9bfsYv8-lbc
+
 #### Haskell for Imperative Programming (hfip)
 - https://youtube.com/playlist?list=PLe7Ei6viL6jGp1Rfu0dil1JH1SHk9bgDV
 
